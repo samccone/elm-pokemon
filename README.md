@@ -30,4 +30,5 @@ BSD
 - [Ember](http://emberjs.jsbin.com/AYegOHI/1/edit)
 - [Polymer](https://github.com/passy/x-pokemon)
 - [Vanilla](https://github.com/calvinmetcalf/vanilla-pokemon)
+- [es6](https://github.com/samccone/es6-pokemon)
 - [React](https://github.com/passy/react-pokemon)
